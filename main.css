@@ -1,0 +1,17 @@
+body{
+	margin-top: 20px;
+	font-size: 14px;
+	font-family: Aerial;
+
+}
+form{
+	
+}
+.form-label{
+	display: block;
+	
+}
+.form-text{
+	display: block;
+	border: 2px solid #bfbfbf; 
+}
