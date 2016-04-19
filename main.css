@@ -3,36 +3,48 @@ body{
 	font-size: 14px;
 	font-family: Aerial;
 
-}
-form{
-	
+
 }
 .form-label{
 	display: block;
 	
 }
-.form-text{
+.form-input{
 	display: block;
-	border: 2px solid #bfbfbf; 
+	border: 1px solid #212121; 
+	margin-bottom: 4px;
 }
 ul{
-	display: inline-block;
 	list-style-type: none;
 }
-#mob-name{
-	
-	color: #bfbfbf;
-}
-
-#mob-desc{
- position: absolute;
- bottom: 5px;
-
+#main{
+    border: 1px solid #DD668F;
+    border-radius: 4px;
+    max-width:80%;
+	padding: 15px 0 15px 4px;
+	margin: 8px;
+	height: 100px;
 }
 #mob-img{
-	border: 1px solid #212121;
-	padding:20px 800px 20px 10px;
-	height: 150px;
-	width: 150px;
-	position: relative;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 65px;
+
 }
+#name{
+	color: #746377;
+	text-align: left;
+	position: relative;
+	top: -10px;
+	left: 110px;
+	
+}
+#mob-desc{
+	text-align: left;
+	position: relative;
+	top: -10px;
+	left: 110px;
+	max-width: 80%
+}
+
