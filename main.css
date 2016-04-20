@@ -16,9 +16,10 @@ body{
 }
 ul{
 	list-style-type: none;
+
 }
 #main{
-    border: 1px solid #DD668F;
+    border: 1px solid #D3d3d3;
     border-radius: 4px;
     max-width:80%;
 	padding: 15px 0 15px 4px;
@@ -33,7 +34,7 @@ ul{
 
 }
 #name{
-	color: #746377;
+	color: #KK8978;
 	text-align: left;
 	position: relative;
 	top: -10px;
