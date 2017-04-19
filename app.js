@@ -26,6 +26,7 @@ $(document).ready(function(){
             // Show the list item if the phrase matches and increase the count by 1
             } else {
                 $(this).show();
+		    //add commment
             }
     });
 		}); 
